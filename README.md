@@ -11,7 +11,7 @@ Essa é aplicação que armazena transações financeiras de entrada e saída e 
 * NodeJs - (desenvolvido utilizando a versão v12.16.2)
 * Yarn - (opcional - versão 1.17.3)
 
-# Técnologias utilizadas
+# Tecnologias utilizadas
 
 * NodeJs
 * Typescript
